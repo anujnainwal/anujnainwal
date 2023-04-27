@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Singh Nainwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="github_profile"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujnainwal&label=Profile%20views&color=0e75b6&style=flat" alt="anujnainwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujnainwal&label=Profile%20views&color=0e75b6&style=flat" alt="anujnainwal" width="80" /> </p>
 
 - 💬 Ask me about **React,Node**
 
